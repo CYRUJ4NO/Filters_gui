@@ -1,5 +1,6 @@
 # Filters_gui
-Herramienta para visualizar la respuesta de frecuecia para filtros pasivos RC
+Herramienta para visualizar la respuesta de frecuecia para filtros pasivos RC.
+
 -- filter_guiv4.2.py  es una interfaz grafica para ver el diagrama de bode de filtros RC pasa-alta, pasa-baja y pasa-banda de primer orden.
 <img width="932" height="606" alt="image" src="https://github.com/user-attachments/assets/1671340f-797a-41b9-a68d-3f6b26c0aea9" />
 
