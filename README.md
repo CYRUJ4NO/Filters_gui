@@ -7,7 +7,7 @@ Es una interfaz grafica para ver el diagrama de bode de filtros RC pasa-alta, pa
 
 ## filter_guinv3.py
 Es la interfaz ivertida, donde se ingresan los valores de R y C y grafica el resultado mostrando la frecuencia de corte para cada caso.
-<img width="986" height="614" alt="image" src="https://github.com/user-attachments/assets/1eed00d8-2037-4a00-8e15-6eef68c2faa5" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/1eed00d8-2037-4a00-8e15-6eef68c2faa5" />
 
 ## matriz_filtrosv2.py  
 Muestra una cantidad de valores de R y C para una determinada frecuencia de corte, en filtros de primer orden. Se ajusta a valores comerciales y muestra la diferencia en porcetaje de error versus al calculado.
